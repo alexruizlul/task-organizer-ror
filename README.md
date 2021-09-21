@@ -1,4 +1,4 @@
-# Task Manager built with Ruby on Rails [![Ruby](https://cdn.emojidex.com/emoji/seal/Ruby.png "Ruby") ](https://www.ruby-lang.org)
+# Task Manager built with Ruby on Rails [![Ruby](https://cdn.emojidex.com/emoji/mdpi/Ruby.png "Ruby") ](https://www.ruby-lang.org)
 
 You can try a demo of the app in https://organizador-alexruizlul.herokuapp.com/
 
