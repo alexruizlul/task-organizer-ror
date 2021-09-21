@@ -17,10 +17,9 @@ Some of the things you can do in this web app are:
 ## Web app in action
 ![Screenshot from 2021-09-21 10-38-56](https://user-images.githubusercontent.com/60763025/134202430-ec3e6b97-f2d5-4ac8-88e2-3526eb7746fc.png)
 
-
 ![Screenshot from 2021-09-21 10-41-06](https://user-images.githubusercontent.com/60763025/134202580-4a3ceef6-3089-4255-964b-91eda1f14b32.png)
 
-![image](https://user-images.githubusercontent.com/60763025/134202656-4fab51f3-6f68-440c-9850-e2a24463c1ad.png)
+![Screenshot from 2021-09-21 10-41-44](https://user-images.githubusercontent.com/60763025/134203093-b44ba4c8-26c4-4011-9399-5d8969fb01fd.png)
 
 ## Technology stack:
 * Ruby on Rails
