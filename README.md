@@ -1,7 +1,6 @@
-# README
+# Task Manager built with Ruby on Rails [![Ruby](https://cdn.emojidex.com/emoji/seal/Ruby.png "Ruby") ](https://www.ruby-lang.org)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+You can try a demo of the app in https://organizador-alexruizlul.herokuapp.com/
 
 Things you may want to cover:
 
